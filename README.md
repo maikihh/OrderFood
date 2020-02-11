@@ -1,1 +1,2 @@
-# JMeter_Demo_Python
+这个是用python语言编写的用户订餐的demo。
+用户JMeter接口压测演练
